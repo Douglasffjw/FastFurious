@@ -8,9 +8,9 @@
 
 ##  Objetivo
 
-- **FAST and FURIOUS é um simple-page que desenvolvi com o objetivo de me aperfeiçoar na Framework do CSS: BOOTSTRAP**
+- **FAST and FURIOUS é um simple-page que desenvolvi com o objetivo de me aperfeiçoar na Framework do CSS: BOOTSTRAP.**
 
-- *Esse site é Responsivo! Composto com catalogos de carros e um simples mapa de localização da consconcessionária*
+- *Esse site é Responsivo! Composto com catalogos de carros e um simples mapa de localização da consconcessionária.*
 ---
 ---
 
