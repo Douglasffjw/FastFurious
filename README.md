@@ -4,13 +4,13 @@
 
 ![Resultado final do projeto](./assets/images/preview.png)
 
-<h4 align="center"><a href="https://tiktok-jornada-91755.web.app/">Clique para visitar o projeto</a></h4>
+<h4 align="center"><a href="https://fast-furious-dg.vercel.app/">Clique para visitar o projeto</a></h4>
 
 ##  Objetivo
 
-- **FAST and FURIOUS é uma simples simple-page que desenvolvi com o objetivo de me  aperfeiçoar na Framework do CSS: BOOTSTRAP**
+- **FAST and FURIOUS é um simple-page que desenvolvi com o objetivo de me aperfeiçoar na Framework do CSS: BOOTSTRAP**
 
-- *Esse site é Responsivo! Composto com catalogos de carros e um simples mapa de localização da loja*
+- *Esse site é Responsivo! Composto com catalogos de carros e um simples mapa de localização da consconcessionária*
 ---
 ---
 
